@@ -1,2 +1,2 @@
 
-Uma simples página com html e css, construção em andamento 
+Uma simples página com html e css, construção em andamento...
